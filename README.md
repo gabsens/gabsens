@@ -7,6 +7,11 @@ My interests include:
 
 I studied at [ENSAE Paris](https://www.ensae.fr/en/) and ENS Paris-Saclay, got a master's degree from the latter ([MVA](https://www.universite-paris-saclay.fr/en/formation/master/mathematics-and-applications/m2-mathematics-vision-learning)).
 
-My Github repositories are the products of coursework and of various projects (related to steganography, low-level memory manipulation, scrapping, ...)
+My Github repositories are the products of coursework and various projects (related to steganography, low-level memory manipulation, scrapping, ...)
 
-# [My personal webpage](https://gabsens.github.io/)
+
+<h1 align="center">
+   <a href="https://gabsens.github.io/">
+     My personal webpage
+   </a> 
+</h1>
