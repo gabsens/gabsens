@@ -12,6 +12,12 @@ My Github repositories are the products of coursework and various projects (rela
 
 <h1 align="center">
    <a href="https://gabsens.github.io/">
-     My personal webpage
+     My website
    </a> 
+</h1>
+
+
+Visits:
+<h1 align="center">
+   <img src="https://profile-counter.glitch.me/gabsens/count.svg">
 </h1>
