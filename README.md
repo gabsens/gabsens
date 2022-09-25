@@ -1,7 +1,7 @@
-I am a first-year PhD student at [CREST - ENSAE](http://crest.science), advised by [Victor-Emmanuel Brunel](https://vebrunel.com/about/).
+I am a third-year PhD student at [CREST - ENSAE](http://crest.science), advised by [Victor-Emmanuel Brunel](https://vebrunel.com/about/).
 
 My interests include:
-- Statistics in nonlinear spaces
+- Statistics in infinite-dimensional normed spaces
 - High-dimensional Regression
 - Optimal Transport
 
