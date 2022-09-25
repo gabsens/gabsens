@@ -1,4 +1,4 @@
-I am a third-year PhD student at [CREST - ENSAE](http://crest.science), advised by [Victor-Emmanuel Brunel](https://vebrunel.com/about/).
+I am a third-year PhD student at [CREST - ENSAE](http://crest.science), advised by Victor-Emmanuel Brunel.
 
 My interests include:
 - Statistics in infinite-dimensional normed spaces
