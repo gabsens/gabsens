@@ -1,8 +1,9 @@
-I am a third-year PhD student at [CREST - ENSAE](http://crest.science), advised by Victor-Emmanuel Brunel.  
+I am a postdoctoral researcher in the [Department of Mathematics](http://wwwen.uni.lu/research/fstm/dmath) at the [University of Luxembourg](http://wwwen.uni.lu/), working with [Yannick Baraud](https://math.uni.lu/baraud/Home.html).
 
-**News**: I defended my PhD thesis on December 15, 2023. My manuscript is available [here](https://gabsens.github.io/files/manuscript.pdf).
+I defended my PhD thesis on December 15, 2023. My manuscript is available [here](https://gabsens.github.io/files/manuscript.pdf).
 
 My interests include:
+- Bayesian Nonparametrics
 - Statistics in metric spaces
 - Statistics in infinite-dimensional normed spaces
 - High-dimensional Regression
